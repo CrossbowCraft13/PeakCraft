@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Model weights & artifacts
+models/**/weights/
+models/**/checkpoints/
+*.onnx
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Recordings & data
+recordings/
+data/
+experience/
+*.mp4
+*.mkv
+
+# Config with local paths (keep schema; ignore populated config)
+config.local.json
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
+
+# Tooling
+.freebuff/
+.agents/
