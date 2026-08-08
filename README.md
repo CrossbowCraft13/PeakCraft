@@ -1,3 +1,6 @@
+<img width="1379" height="934" alt="image" src="https://github.com/user-attachments/assets/8233861b-8924-4006-9f26-f92746ed466c" />
+
+
 <div align="center">
 
 # ⛏️ PeakCraft
